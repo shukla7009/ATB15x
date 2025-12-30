@@ -1,4 +1,4 @@
-package ex_02_Variables;
+package ex_03_Variables;
 
 public class Lab004_variables {
 

@@ -1,4 +1,4 @@
-package ex_03_scanner_Kakashi;
+package ex_04_scanner_Kakashi;
 import java.util.Scanner;
 
 public class Lab006_scanner_biodata {
